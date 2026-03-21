@@ -1,0 +1,16 @@
+# 這裡定義 Git 應該「忽略」的東西
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+ios/.generated/
+android/.gradle/
+android/app/src/main/res/drawable-*/
+android/local.properties
+.idea/
+.vscode/
+*.exe
+*.dll
+*.so
+*.dylib
